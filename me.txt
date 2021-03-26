@@ -1,1 +1,1 @@
-friendly turtle
+friendly-turtle
